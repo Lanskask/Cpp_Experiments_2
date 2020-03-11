@@ -1,0 +1,3 @@
+[submodule "bazel_examples"]
+	path = bazel_examples
+	url = https://github.com/bazelbuild/examples
