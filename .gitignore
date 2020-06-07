@@ -1,33 +1,7 @@
-*
-!*.*
-!/**/
-.clwb/
 .idea/
-
-# Compiled Object files
-*.lo
-*.o
-*.obj
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Compiled Static libraries
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-CMakeLists.txt.user
-CMakeCache.txt
-CMakeFiles
-CMakeScripts
-Makefile
-
-# Bazel
+.vscode/
+build/
+cmake-build-*/
 /bazel-*
+
+*.out

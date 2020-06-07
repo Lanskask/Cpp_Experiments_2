@@ -1,3 +1,6 @@
 [submodule "bazel_examples"]
 	path = bazel_examples
 	url = https://github.com/bazelbuild/examples
+[submodule "boost-asio-examples"]
+	path = boost-asio-examples
+	url = git@github.com:alexott/boost-asio-examples.git
